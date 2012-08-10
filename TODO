@@ -1,0 +1,35 @@
+Plan d'avancement :
+1. options de combats : fait
+2. zaaps (waypoints) : fait
+3. mode marchand fait
+4. hôtel de vente
+5. attitudes (s'asseoir, s'allonger, pointer du doigt, etc)
+= 1 semaine et demi
+
+------------------------------------
+Bêta-test 26.2.2011 :
+
+Bug :
+- horaire message publics
+- même jets coiffe bouftou (fait et verif)
+- jets vide
+- canal guilde (fait et verif)
+- boost carac >100 (fait et verif)
+- mauvaise sauvegarde des effets des items (fait et vérif)
+- pas de vérification si connecté dans MP (fait et vérif)
+- changement de case quand on est prêt en combat (fait et vérif)
+- équiper item lors de la préparation du combat (fait et vérif)
+- ne pas équiper item quand prêt en préparation de combat (fait et vérif)
+- pas de +1PA au lvl 100 (fait et vérif)
+- mauvaise sauvegarde guild_members (fait et vérif)
+- mauvaise couleur emblême de guilde (fait et vérif)
+- accessoires non visible en combat & groupe (fait et vérif)
+- local/remote message privé confondu (fait et vérif)
+
+TODO :
+- émoticones
+- !who <perso> (fait)
+- !state (voir l'état actuel) (fait)
+---------------------------------------
+
+- fixer la fin de combat

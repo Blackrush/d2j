@@ -1,0 +1,13 @@
+G   = GAME
+|- R       = READY
+|  |- 1            = ON
+|  |- 0            = OFF
+|
+|- Q       = QUIT
+
+f   = FIGHT
+|- N        = LOCK
+|
+|- H        = HELP
+|
+|- S        = SPECTATOR
